@@ -63,7 +63,7 @@
 
 ## <br>
 
-#### 🌈 <span backgrond-color:"red"> 허혜성 </span>
+#### 🌈 <mark style='background-color: #ffd33d'> 허혜성 </mark>
 
 ✨ 1.로그인 / token 사용하여 서비스 제한 및 제공여부 구현<br>✨ 2.로그인 / 정규 표현식 사용하여 이메일 비밀번호 validation 구현<br> ✨ 3.로그인 / 로그인 후 token 사용하여 navbar 핸들링<br> ✨ 4.회원가입 / 정규 표현식 사용하여 이메일 비밀번호 validation 구현<br>✨ 5.마이와디즈 / 유저 정보 및 상품 리스트 API 통신 & 펀딩 및 좋아요 상품 컴포넌트화
 
